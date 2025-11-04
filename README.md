@@ -1,6 +1,6 @@
 # Hi there 👋 I'm DEATHHQ (deathhq_)
 
-![Banner](https://raw.githubusercontent.com/deathhq6/deathhq6/main/assets/banner.png)
+![Banner](https://github.com/deathhq6/deathhq6/blob/de1c78d86601408c8d3d477b5d8e696b64d3111d/DeathHQBanner(Long).png)
 
 Welcome to my digital space, where code meets creativity and curiosity.  
 My name is **DeathHQ** but you can call me **Yazao** (my real name is secret)
