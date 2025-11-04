@@ -1,6 +1,7 @@
 # Hi there 👋 I'm DEATHHQ (deathhq_)
 
-Welcome to my digital space, where code meets creativity and curiosity.
+Welcome to my digital space, where code meets creativity and curiosity. 
+My name is **DeathHQ** but you can call me **Yazao** (my real name is secret)
 
 ## 💻 What I Do
 
@@ -17,6 +18,7 @@ I'm proud to be part of the **Epic Games** organization and a freelance contribu
 - 🧪 Deeply passionate about chemistry, physics, and visual learning
 - 🐎 Horses and the UN are my favorite topics — yes, really!
 - 🎧 Explore my music world on [SoundCloud](https://soundcloud.com/deathhq)
+- ▶️ Visit my channel on [YouTube](https://www.youtube.com/@deathhqdotcom)
 
 ## 📊 GitHub Stats
 
