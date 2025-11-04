@@ -1,6 +1,6 @@
 # Hi there 👋 I'm DEATHHQ (deathhq_)
 
-Welcome to my digital space — where code meets creativity and curiosity.
+Welcome to my digital space, where code meets creativity and curiosity.
 
 ## 💻 What I Do
 
