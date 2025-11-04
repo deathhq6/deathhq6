@@ -20,7 +20,7 @@ I'm proud to be part of the **Epic Games** organization and a freelance contribu
 
 </td>
 <td align="right">
-<img src="https://raw.githubusercontent.com/deathhq6/deathhq6/main/assets/logo.png" width="120" alt="DEATHHQ Logo">
+<img src="CircleVersion.png" width="120" alt="DEATHHQ Logo">
 </td>
 </tr>
 </table>
