@@ -1,10 +1,15 @@
 # Hi there 👋 I'm DEATHHQ (deathhq_)
 
-Welcome to my digital space, where code meets creativity and curiosity. 
+![Banner](https://raw.githubusercontent.com/deathhq6/deathhq6/main/assets/banner.png)
 
+Welcome to my digital space, where code meets creativity and curiosity.  
 My name is **DeathHQ** but you can call me **Yazao** (my real name is secret)
 
 ## 💻 What I Do
+
+<table>
+<tr>
+<td>
 
 I'm primarily focused on:
 - 🐍 Python (`.py`)
@@ -13,12 +18,19 @@ I'm primarily focused on:
 
 I'm proud to be part of the **Epic Games** organization and a freelance contributor at **Vibe Coding**, where I bring modular thinking and precision to every project.
 
+</td>
+<td align="right">
+<img src="https://raw.githubusercontent.com/deathhq6/deathhq6/main/assets/logo.png" width="120" alt="DEATHHQ Logo">
+</td>
+</tr>
+</table>
+
 ## 🔬 Interests & Passions
 
-- 🔧 Building modular workflows and troubleshooting Windows environments
-- 🧪 Deeply passionate about chemistry, physics, and visual learning
-- 🐎 Horses and the UN are my favorite topics — yes, really!
-- 🎧 Explore my music world on [SoundCloud](https://soundcloud.com/deathhq)
+- 🔧 Building modular workflows and troubleshooting Windows environments  
+- 🧪 Deeply passionate about chemistry, physics, and visual learning  
+- 🐎 Horses and the UN are my favorite topics — yes, really!  
+- 🎧 Explore my music world on [SoundCloud](https://soundcloud.com/deathhq)  
 - ▶️ Visit my channel on [YouTube](https://www.youtube.com/@deathhqdotcom)
 
 ## 📊 GitHub Stats
@@ -32,3 +44,4 @@ I'm proud to be part of the **Epic Games** organization and a freelance contribu
 Thanks for stopping by, feel free to explore my repos or reach out!
 
 *better use webview.*
+
