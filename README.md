@@ -1,6 +1,7 @@
 # Hi there 👋 I'm DEATHHQ (deathhq_)
 
 Welcome to my digital space, where code meets creativity and curiosity. 
+
 My name is **DeathHQ** but you can call me **Yazao** (my real name is secret)
 
 ## 💻 What I Do
@@ -23,7 +24,8 @@ I'm proud to be part of the **Epic Games** organization and a freelance contribu
 ## 📊 GitHub Stats
 
 ![DEATHHQ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathhq6&show_icons=true&theme=radical)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeathhq6&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 ---
 
-Thanks for stopping by — feel free to explore my repos or reach out!
+Thanks for stopping by, feel free to explore my repos or reach out!
