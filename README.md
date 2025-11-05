@@ -27,7 +27,7 @@ I'm proud to be part of the **Epic Games** organization and a freelance contribu
 
 ## 🔬 Interests & Passions
 
-- 🔧 Building modular workflows and troubleshooting Windows environments  
+- 🔧 Building modular workflows and troubleshooting Windows & Linux (WM) environments  
 - 🧪 Deeply passionate about chemistry, physics, and visual learning  
 - 🐎 Horses and the UN are my favorite topics — yes, really!  
 - 🎧 Explore my music world on [SoundCloud](https://soundcloud.com/deathhq)  
